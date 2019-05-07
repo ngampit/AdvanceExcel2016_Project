@@ -1,0 +1,174 @@
+<AnimalShelter>
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>3 years</Age>
+
+		<Sex>Male</Sex>
+
+		<Name>Paws</Name>
+
+		<Color>White</Color>
+
+		<DateIn>3/15/2018</DateIn>
+
+		<DateAdopted></DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>8 years</Age>
+
+		<Sex>Female</Sex>
+
+		<Name>Mama Mia</Name>
+
+		<Color>Calico</Color>
+
+		<DateIn>2/15/2018</DateIn>
+
+		<DateAdopted>3/21/2018</DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Dog</Type>
+
+		<Age>2 years</Age>
+
+		<Sex>Female</Sex>
+
+		<Name>Mrs. Wolf</Name>
+
+		<Color>Brown</Color>
+
+		<DateIn>3/8/2018</DateIn>
+
+		<DateAdopted></DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>4 months</Age>
+
+		<Sex>Male</Sex>
+
+		<Name>Twerpy</Name>
+
+		<Color></Color>
+
+		<DateIn>3/12/2018</DateIn>
+
+		<DateAdopted>3/13/2018</DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Dog</Type>
+
+		<Age>7 months</Age>
+
+		<Sex>Female</Sex>
+
+		<Name>Betsy</Name>
+
+		<Color>Black and White</Color>
+
+		<DateIn>2/25/2018</DateIn>
+
+		<DateAdopted>3/14/2018</DateAdopted>
+	</Animal>
+
+
+	
+<Animal>
+
+		<Type>Dog</Type>
+
+		<Age></Age>
+
+		<Sex>Male</Sex>
+
+		<Name>Fido</Name>
+
+		<Color>Brown and White</Color>
+
+		<DateIn>3/17/2018</DateIn>
+
+		<DateAdopted></DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>11 months</Age>
+
+		<Sex>Female</Sex>
+
+		<Name>Misty</Name>
+
+		<Color>Black</Color>
+
+		<DateIn>3/10/2018</DateIn>
+
+		<DateAdopted></DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>5 years</Age>
+
+		<Sex>Male</Sex>
+
+		<Name>Jasper</Name>
+
+		<Color>Black</Color>
+
+		<DateIn>1/31/2018</DateIn>
+
+		<DateAdopted></DateAdopted>
+	</Animal>
+
+
+
+	<Animal>
+
+		<Type>Cat</Type>
+
+		<Age>12 years</Age>
+
+		<Sex>Female</Sex>
+
+		<Name>Grumpy</Name>
+
+		<Color>Gray</Color>
+
+		<DateIn>2/1/2018</DateIn>
+
+		<DateAdopted>3/18/2018</DateAdopted>
+	</Animal>
+
+
+
+</AnimalShelter>

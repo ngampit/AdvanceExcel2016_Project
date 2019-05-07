@@ -1,0 +1,43 @@
+Serial #	Movie Title	Release Date	Rating
+1	The GodFather	2000	PG-13
+2	Good Luck Chuck	2009	PG-13
+3	Good Fellas	2001	PG
+4	Star Wars	2001	G
+5	Indiana Jones	1992	PG-13
+6	Bridget Jones	2000	PG-13
+7	Step Brothers	1994	PG-13
+8	Mama Mia	2001	G
+9	Tron	1999	G
+10	The Last Dragon	2001	PG
+11	The Golden Child	2002	R
+12	Shaft	1979	R
+13	Super Fly	1980	G
+14	Big Trouble in Little China	2010	G
+15	Blue Streak	2009	PG
+16	Glory Road	1984	PG
+17	Remember The Titans	1988	PG-13
+18	Up	1996	PG-13
+19	Aladdin	1987	G
+20	Cinderella	1989	PG-13
+21	House Party	2001	G
+22	Office Space	1989	PG
+23	Dirty Harry	2008	R
+24	Monsters Inc	2005	PG
+25	Space Cowboys	2000	R
+26	Planet 51	1982	PG
+27	Vanilla Sky	1997	PG
+28	Batman	1994	R
+29	Superman	1998	PG-13
+1	The God Father	2000	PG
+2	Good Luck Chuck	2009	R
+3	Good Fellas	2001	G
+5	Indiana Jones	1992	R
+7	Step Brothers	1994	R
+8	Mama Mia	2001	PG
+9	Tron	1999	PG
+10	The Last Dragon	2001	G
+11	The Golden Child	2002	PG
+15	Blue Streak	2009	R
+17	Remember The Titans	1988	G
+19	Aladdin	1987	R
+20	Cinderella	1989	R

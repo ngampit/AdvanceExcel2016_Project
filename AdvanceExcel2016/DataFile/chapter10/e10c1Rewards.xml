@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+
+<PledgeRewards>
+
+	<Pledge>
+		<Amount>100</Amount>
+		<Reward>Poster</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>500</Amount>
+		<Reward>Tee Shirt</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>1000</Amount>
+		<Reward>Sweet Shirt</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>1500</Amount>
+		<Reward>MP3 Player</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>2000</Amount>
+		<Reward>Bluetooth Stereo</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>2500</Amount>
+		<Reward>Airline Ticket</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>3000</Amount>
+		<Reward>Laptop</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>3500</Amount>
+		<Reward>Weekend Getaway</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>4000</Amount>
+		<Reward>3 day vacation</Reward>
+	</Pledge>
+	
+	<Pledge>
+		<Amount>4500</Amount>
+		<Reward>5 day vacation</Reward>
+	</Pledge>
+
+	<Pledge>
+		<Amount>5000</Amount>
+		<Reward>Cruise</Reward>
+	</Pledge>
+</PledgeRewards>
